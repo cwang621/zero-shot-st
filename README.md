@@ -20,6 +20,8 @@ pip install pandas sentencepiece editdistance PyYAML tqdm soudfile
 
 * fairseq == 1.0.0a0+741fd13
 
+Dowanload the corresponding fairseq and install it.
+
 ``` bash
 cd fairseq
 pip install --editable ./
